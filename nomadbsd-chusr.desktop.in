@@ -6,4 +6,5 @@ Icon=icon_user
 Terminal=false
 StartupNotify=True
 Type=Application
-Categories=System;
+Categories=Settings;System;DesktopSettings;X-XFCE-SettingsDialog;X-XFCE-SystemSettings;
+
